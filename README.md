@@ -1,2 +1,2 @@
 # html-table
-Html Table with different products
+Html Table with different products.
